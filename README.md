@@ -16,4 +16,8 @@ Computers and Programs:
 2. Inside a Python Program
 3. Chaos and Computers
 
+20 January 2024
+Rock-Paper-Scissors-Beau-Carnes
+   
+
   
