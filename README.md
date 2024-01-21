@@ -18,6 +18,9 @@ Computers and Programs:
 
 20 January 2024
 Rock-Paper-Scissors-Beau-Carnes
+RPS - https://thehelloworldprogram.com/
+https://www.codecademy.com/courses/learn-python/
+Modulo, float, quotient, numerator, denumenator, float(), booleans, int(), str(),
    
 
   
